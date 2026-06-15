@@ -116,7 +116,7 @@ const About = () => {
                 className="p-6 rounded-xl backdrop-blur-md bg-gradient-to-br from-white/10 to-white/5 border border-white/20 hover:border-[#FF3B30]/50 transition-all duration-300 hover:shadow-lg hover:shadow-[#FF3B30]/20"
               >
                 <h3 className="text-3xl font-bold bg-gradient-to-r from-[#FF3B30] to-[#FF6B57] bg-clip-text text-transparent mb-2">3</h3>
-                <p className="text-gray-300">Internships at Top Companies</p>
+                <p className="text-gray-300">Internships at  Companies</p>
               </motion.div>
 
               <motion.div

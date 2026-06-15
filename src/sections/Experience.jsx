@@ -17,6 +17,18 @@ const Experience = () => {
       ],
     },
     {
+  company: 'Elysium Technologies Private Limited',
+  role: 'Full Stack Web Development Intern',
+  duration: '1 Month',
+  responsibilities: [
+    'Developed responsive web applications using modern frontend technologies',
+    'Built and integrated RESTful APIs for seamless client-server communication',
+    'Worked with databases for data storage and retrieval operations',
+    'Implemented user authentication and authorization features',
+    'Collaborated with development teams to enhance application performance and user experience',
+  ],
+},
+    {
       company: 'CodSoft',
       role: 'Full Stack Web Development Intern',
       duration: '1 Month',
