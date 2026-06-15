@@ -10,7 +10,7 @@ const Projects = () => {
       description:
         'Developed a complete SaaS project management solution with authentication, role-based dashboards, project tracking, file sharing, progress monitoring, and real-time communication using Socket.io.',
       technologies: ['React.js', 'Node.js', 'MongoDB', 'Socket.io', 'Express.js'],
-      github: 'https://github.com/SHRIJADHANALAKSHMI/inovex-IT-service-website',
+      github: 'https://github.com/SHRIJADHANALAKSHMI/inovex-IT-service-website.git',
       demo: 'https://example.com',
       icon: '📊',
     },
@@ -109,8 +109,8 @@ const Projects = () => {
                     </span>
                   )}
                 </div>
-
-                {/* Links */}
+ 
+                {/* Links */} 
                 <div className="flex gap-3 pt-4 border-t border-white/10 dark:border-white/5">
                   <motion.a
                     href={project.github}
@@ -123,6 +123,7 @@ const Projects = () => {
                     <FaGithub size={18} />
                     GitHub
                   </motion.a>
+                 
                   <motion.a
                     href={project.demo}
                     target="_blank"

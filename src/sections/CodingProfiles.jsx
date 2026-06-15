@@ -22,8 +22,8 @@ const CodingProfiles = () => {
     {
       name: 'CodeChef',
       icon: <SiCodechef size={40} />,
-      stats: '200+ Problems Solved',
-      url: 'https://www.codechef.com/',
+      stats: '450+ Problems Solved',
+      url: 'https://www.codechef.com/users/kgisl_23it48',
       color: 'from-orange-600 to-orange-800',
     },
   ]
